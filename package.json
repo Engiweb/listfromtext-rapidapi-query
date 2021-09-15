@@ -1,6 +1,6 @@
 {
   "name": "listfromtext-rapidapi-query",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Query the Listfromtext.com data extraction API using your RapidAPI api key",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
