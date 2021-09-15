@@ -16,7 +16,7 @@ export type listfromtextMessage = {
 
 export type listfromtextResponse = {
   message?: string
-  data?: string
+  data?: (string|boolean|number)[]
   error?: string | AxiosError
 }
 
